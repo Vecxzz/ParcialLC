@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Calculadora_UrielVera {
     public static void main(String[] args) {
         //Crear Scanner
         Scanner sc = new Scanner(System.in);
