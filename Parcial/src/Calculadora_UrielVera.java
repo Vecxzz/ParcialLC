@@ -11,6 +11,8 @@ public class Calculadora_UrielVera {
         System.out.println("Bienvenido");
         while (salir != 0){
             System.out.println("¿Qué operación desea realizar?");
+            System.out.println("Ingrese 0 para salir del bucle de cada operación");
+
             System.out.println(" ");
             System.out.println("1. SUMA");
             System.out.println("2. RESTA");
